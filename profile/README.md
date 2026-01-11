@@ -1,13 +1,13 @@
 # Slidepad – Smart Floating Browser & Workspace Manager  
 
 <div align="center">  
-<img src="https://cdnp3.stackassets.com/af86758cb91ec4c1680e51153d03612eaeba3ef7/store/d12b358fe64296d4173eed26d3061397d9d8a0dd3423877a25843b4db7ee/sale_297729_primary_image.jpg" alt="Slidepad Logo" width="1000">  
+<img src="https://cdnp3.stackassets.com/af86758cb91ec4c1680e51153d03612eaeba3ef7/store/d12b358fe64296d4173eed26d3061397d9d8a0dd3423877a25843b4db7ee/sale_297729_primary_image.jpg" alt="Slidepad Logo" width="600">  
 </div>
 
 <br>
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/slidepad">  
+<a href="https://tubus-jubus-apps.github.io/.github/slidepad">  
 <img src="https://img.shields.io/badge/⬇️_Get_Slidepad-blue?style=for-the-badge&logo=apple" alt="Get Slidepad">  
 </a>  
 </div>  
